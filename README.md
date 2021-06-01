@@ -16,11 +16,11 @@
 
 ## 💡 Projects
 - [Personal portfolio(React)](https://shang-jui.github.io/react-personalworks/)
-- [Personal portfolio(JS)](https://shang-jui.github.io/personalproject/)
 - [JS-todolist](https://shang-jui.github.io/JS-todolist/)
 - [React-todolist](https://shang-jui.github.io/react-todolist/)
 - [Realtime-weather](https://shang-jui.github.io/realtime-weather/)
 - [group portfolio ](https://www.hui779.com/group3/)
+- [Personal portfolio(JS)](https://shang-jui.github.io/personalproject/)
 
 ## 🔗 Contact
 - Mail:hn15637648@gmail.com
